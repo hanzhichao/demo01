@@ -1,0 +1,13 @@
+args:
+  - post
+  - /sub
+kwargs:
+  -
+    caseName: 减法
+    data:
+      a: 1.5
+      b: 1
+validator:
+  -
+    json:
+      successed: True
